@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/21.11.24/miui_CEPHEUS_21.11.24_d1e07cc091_11.0.zip
+  ROM_URL: https://i7fu1ljv7k04nsniuolqv8c3r89fhonih3d1pade8g4p2bll85fvuabq.qc.dolfincdnx.net:10443/xdispatch78d843f36f06ed85/bigota.d.miui.com/21.11.24/miui_CEPHEUS_21.11.24_d1e07cc091_11.0.zip?bsreqid=dc9e166223cfea59aeff66b03c47bf55&bsxdisp=se
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
